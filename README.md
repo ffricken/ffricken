@@ -1,3 +1,18 @@
-Hello everyone, my name is Fabian and i am a mathematician-working-in-engineering from Berlin. I am currently working at the Chair of Flight Guidance and Air Transport at TU Berlin.
-You'll mainly find me interested in everything related to discrete geometry, computational topology as well as optimization from a math persepctive and map matching, UAVs and the geometry of their swarms from an engineering standpoint.
-Further i am interested in efficient workflows and tools.
+# Welcome
+Mathematician-working-in-engineering currently at the Chair of Flight Guidance and Air Transport at TU Berlin.
+
+###### Math interests
+- discrete and algebraic geometry
+- linear and integer optimization
+- computer algebra systems and mathematical software in general
+
+###### Engineering interests
+- uncrewed aerial vehicles
+- LIDAR based navigation
+- separation assurance and collision avoidance
+
+###### Programming interests
+- Neovim
+- open source software
+- command line interfaces
+
